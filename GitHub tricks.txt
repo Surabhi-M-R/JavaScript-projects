@@ -1,0 +1,8 @@
+git.io --> for short URL
+
+
+? for shortcuts in GitHub
+
+selecting specific line and copy paste that url for code review
+
+blame for track commit from previous and current commits 
