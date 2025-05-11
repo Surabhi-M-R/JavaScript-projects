@@ -1,0 +1,29 @@
+How to become blockchain developer 
+Core Blockchain developer= improving and maintaining
+      2)  Blockchain software Developers = building 
+Prerequisites:
+	1)Fundamentals of the blockchain
+Databases
+How frontend interact with backend
+How crypto wallets works
+Blockchain explorer
+Skills
+	Smart contract = Ethereum , polygon
+	Solidity
+	Hardhat
+	Truffle
+	remix.ethereum.org
+	Vyper
+	Brownie
+	
+Javascript libraries:
+	ether.js or web3.js
+ 
+ Types
+ Application Devs 👉 1. Solidity 
+2. JS
+3. Python
+
+Core devs 👉 1. GO
+				 2. C++
+				3. Rust 
